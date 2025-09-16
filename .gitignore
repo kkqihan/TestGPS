@@ -87,3 +87,5 @@ xcuserdata
 #Obfuscator.Free Log
 /Assets/OPS*
 /HybridCLRData
+
+/Build/

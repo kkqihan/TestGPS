@@ -157,7 +157,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    iPhone: com.DefaultCompany.TestGPS
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -488,9 +489,13 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
-  locationUsageDescription: 
-  microphoneUsageDescription: 
+  cameraUsageDescription: The app may use the camera to capture images or videos
+    for various purposes such as taking photos, scanning barcodes, or recording videos.
+  locationUsageDescription: The application could utilize location services to provide
+    location-based features such as finding nearby places, navigation, or location-based
+    notifications.
+  microphoneUsageDescription: The app might use the microphone to record audio for
+    functions like voice commands, audio recording, or communication.
   bluetoothUsageDescription: 
   switchNMETAOverride: 
   switchNetLibKey: 
